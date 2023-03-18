@@ -4,9 +4,9 @@ This repository contains work, done in Python, that was completed during my Care
 
 ### *Premise*
 
-Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
+The premise of the project can be found [here](/Project%20Management/), in the project management folder. 
 
-The goal of this project was to conduct analysis on, and create visualizations from, Rockbuster's data in order to help with the launch stragtegy for their new online video service. 
+Though not specified in the project brief, I applied some machine learning, employing some basic models such as a XGBoost Classifier, to further the analysis done upon InstaCart's data. 
 
 ### *Deliverables*
 
