@@ -14,7 +14,7 @@ Here are the deliverables that were produced in this project:
 
   - [Python Analysis Scripts](https://dbdocs.io/junhotam/rockbuster_data_dictionary) (data dictionary was created using dbdocs.io and DBML)
 
-  - [Folder of Visualizations](presentation.pdf)
+  - [Folder of Visualizations](03 Visualizations)
 
   - [Report]
   
