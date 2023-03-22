@@ -6,7 +6,7 @@ This repository contains work, done in Python, that was completed during my Care
 
 The premise of the project can be found [here](/Project%20Management/A4_Data_Project%20Brief.pdf), or in the project management folder. 
 
-Though not specified in the project brief, I applied some machine learning, employing some basic models such as a XGBoost Classifier, to further the analysis done upon InstaCart's data. 
+Though not specified in the project brief, I applied some machine learning, employing some basic models such as a XGBoost Classifier and Market Bsket Analysis, to further the analysis done upon InstaCart's data. 
 
 ### *Deliverables*
 
