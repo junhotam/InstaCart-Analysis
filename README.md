@@ -16,7 +16,7 @@ Here are the deliverables that were produced in this project:
 
   - [Folder of Visualizations](/Visualizations/)
 
-  - [Report]
+  - [Report](/Report_InstaCart_Data_Analysis.xlsx)
   
 
 ### *Data*
